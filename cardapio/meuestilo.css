@@ -1,0 +1,336 @@
+table
+{
+
+    width: 1200px;
+    height: 1360px;
+
+}
+
+.lateral 
+
+{
+    background-image: url("img/lateral.jpg");
+    height: 1360px;
+    width: 70px;
+    
+}
+
+.vazio1
+
+{
+    width: 50px;
+    height: 1360px;
+}
+
+.vazio2
+
+{
+    width: 160px;
+    height: 1360px;
+}
+
+.fundo
+
+{
+    background-image: url("img/fundo-papel.jpg");
+    width: 1200px;
+    height: 1360px;
+}
+
+.titulo
+
+{
+    text-align: center;
+    width: 960px;
+    height: 135px;
+    font-family: cursive;
+    font-size: 50;
+    color: white;
+    word-spacing: 10px;
+    text-shadow: 1px 1px black;
+}
+
+ .kanashiro
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #EB268F;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 85%;
+}
+
+.informacoes
+
+{
+    width: 400px;
+    height: 75px;
+    text-align: center;
+}
+
+.bonapetite
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #CE8F64;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 125%;
+}
+
+.cactus
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #FFCC2A;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.wm
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #0098DB;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.jo
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #00A85B;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 140%;
+}
+
+.mafalda
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #EB268F;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 134%;
+}
+
+.sunshine
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #CE8F64;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 135%;
+}
+
+.manero
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #00A85B;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 135%;
+}
+
+.magestic
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #0098DB;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.mineiras
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #FFCC2A;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.florida
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #EB268F;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.grill
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #00A85B;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.point
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #FFCC2A;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+.bistro
+
+{
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #CE8F64;
+    border-color: black;
+    border-bottom:2px solid;
+    border-left: 2px solid;
+    border-right: 1px solid;
+    border-top: 1px solid;
+    text-shadow: 1px 1px black;
+    line-height: 155%;
+}
+
+#restaurante
+
+{
+    font-family: Arial;
+    font-size: 20;
+    color: white;
+}
+
+#comida1
+
+{
+    font-family: Arial;
+    font-size: 32;
+    color: white;
+}
+
+#comida2
+
+{
+    font-family: Arial;
+    font-size: 32;
+    color: #FFFE37;
+}
+
+#negrito
+
+{
+    font-family: Arial;
+    font-size: 16;
+    font-weight: bold;
+}
+
+p
+
+{
+    font-family: Arial;
+    font-size: 16;
+}
